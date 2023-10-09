@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Qinyi Zhou, currently studying in Computing at Imperial College. Dreaming to be a passionate software engineer with a strong foundation in key software engineering principles.
+My name is Qinyi Zhou, currently studying in Computing at Imperial College. Dreaming to be a passionate software engineer with a strong foundation in key software engineering principles. (Sorry! I did not finish modifying this page!!!)
 
 Education
 ======
