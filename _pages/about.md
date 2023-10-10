@@ -32,8 +32,8 @@ Projects
 **BusTub - Database Management System** | C++, Oct. 2022 - Feb. 2023\
 Brief introduction: A mini Relational Database Kernel containing basic data operations         
 - Established a disk-oriented storage manager with an extensible hash table and LRU-K algorithm.
-- Built a dynamic B+ tree index structure, supporting index concurrency.\
-- Constructed a SQL executor based on the Volcano model, completing operator logic such as Sequential scan, Insert, Delete,        Aggregation, Nested loop join, Index join, Sort, Limit, etc.\
+- Built a dynamic B+ tree index structure, supporting index concurrency.
+- Constructed a SQL executor based on the Volcano model, completing operator logic such as Sequential scan, Insert, Delete,        Aggregation, Nested loop join, Index join, Sort, Limit, etc.
 - Implemented concurrent transaction management to ensure the isolation of multiple transactions.
 
 
